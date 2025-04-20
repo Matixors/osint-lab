@@ -40,8 +40,8 @@ The aircraft’s tail number is clearly visible: **C6-VIP**.
 
 **Screenshots:**
 
-- ![plane_frame](../plane_frame.png)  
-- ![flightradar24_c6-vip](../flightradar24_c6-vip.png)
+- ![plane_frame](./plane_frame.png)  
+- ![flightradar24_c6-vip](./flightradar24_c6-vip.png)
 
 ---
 
