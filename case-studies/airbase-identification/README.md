@@ -4,7 +4,7 @@
 
 Identify the location of a military airbase based on satellite imagery using open-source intelligence methods, including reverse image search and geospatial analysis.
 
-This challenge comes from the Hactoria.com
+This challenge comes from the hacktoria.com
 
 ---
 
